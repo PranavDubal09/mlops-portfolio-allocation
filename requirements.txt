@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mlflow
+tensorflow==2.9.1
+pandas
+scikit-learn
+yfinance==0.2.18
+numpy==1.23.5
+protobuf<4
